@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">текст потом придумаю.\nВопросы повторяются пока вы не наберете 20 очков</string>
+    <string name="leveloneend">"Бла бла бла бла уровень пройден/n
+    балаблабалабалабалабалаблаблаблаблабала."</string>
+</resources>
